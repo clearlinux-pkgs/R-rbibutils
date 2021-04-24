@@ -4,7 +4,7 @@
 #
 Name     : R-rbibutils
 Version  : 2.1
-Release  : 4
+Release  : 5
 URL      : https://cran.r-project.org/src/contrib/rbibutils_2.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/rbibutils_2.1.tar.gz
 Summary  : Convert Between Bibliography Formats
