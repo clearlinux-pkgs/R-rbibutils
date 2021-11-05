@@ -4,7 +4,7 @@
 #
 Name     : R-rbibutils
 Version  : 2.2.4
-Release  : 17
+Release  : 18
 URL      : https://cran.r-project.org/src/contrib/rbibutils_2.2.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/rbibutils_2.2.4.tar.gz
 Summary  : Read 'Bibtex' Files and Convert Between Bibliography Formats
