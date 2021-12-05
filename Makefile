@@ -1,5 +1,5 @@
 PKG_NAME := R-rbibutils
-URL = https://cran.r-project.org/src/contrib/rbibutils_2.2.4.tar.gz
+URL = https://cran.r-project.org/src/contrib/rbibutils_2.2.5.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
