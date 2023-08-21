@@ -4,10 +4,10 @@
 # Using build pattern: R
 #
 Name     : R-rbibutils
-Version  : 2.2.14
-Release  : 38
-URL      : https://cran.r-project.org/src/contrib/rbibutils_2.2.14.tar.gz
-Source0  : https://cran.r-project.org/src/contrib/rbibutils_2.2.14.tar.gz
+Version  : 2.2.15
+Release  : 39
+URL      : https://cran.r-project.org/src/contrib/rbibutils_2.2.15.tar.gz
+Source0  : https://cran.r-project.org/src/contrib/rbibutils_2.2.15.tar.gz
 Summary  : Read 'Bibtex' Files and Convert Between Bibliography Formats
 Group    : Development/Tools
 License  : GPL-2.0
@@ -40,10 +40,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1691451595
+export SOURCE_DATE_EPOCH=1692633834
 
 %install
-export SOURCE_DATE_EPOCH=1691451595
+export SOURCE_DATE_EPOCH=1692633834
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
